@@ -1,5 +1,3 @@
-Aquí tienes una versión más detallada del README para el repositorio `erifa`, incluyendo secciones adicionales y ejemplos de configuración:
-
 ```markdown
 # Erifa E-Commerce Platform
 
@@ -124,19 +122,13 @@ npm run start
 - Commits convencionales (Conventional Commits)
 - TypeScript strict mode activado
 
-## Licencia
-MIT License - ver archivo LICENSE
-
 ## Soporte
 - 📧 Email: support@erifa.com
 - 💬 Discord: [invitación]
 - 📖 Docs: https://docs.erifa.com
 ``` [1](#1-0) 
 
-## Notas
-- Este README extendido incluye configuraciones específicas del proyecto como integración con Stripe, AWS S3, y Redis [2](#1-1) .
-- La estructura de directorios refleja la arquitectura de microservicios con frontend y backend separados [2](#1-1) .
-- Los scripts de desarrollo y despliegue están estandarizados para facilitar el onboarding de nuevos desarrolladores [3](#1-2) .
 - Las secciones de testing y code style aseguran calidad y consistencia en el código base [3](#1-2) .
 
 ### Citations
+
